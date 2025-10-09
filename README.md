@@ -37,5 +37,5 @@ I'm a curious learner passionate about Artificial Intelligence, Cybersecurity, a
 
 ---
 
-> 🔎 "Learning one bug at a time. Dreaming in code. Living for the next build."
+> 🔎 "Learning one bug at a time."
 
