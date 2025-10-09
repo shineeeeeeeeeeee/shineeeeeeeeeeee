@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Shine 👋</h1>
-<h3 align="center">A passionate Computer Science Engineering student </h3>
+<h3 align="center">A Computer Science Engineering student </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shine-suri-402b01289/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
@@ -8,7 +8,7 @@
 
 ---
 
-I'm a curious learner passionate about Artificial Intelligence, Cybersecurity, and Software Development. I’m currently building projects that challenge my skills and help deepen my understanding through hands-on experience.
+I'm a curious learner passionate about Artificial Intelligence, Cybersecurity, and Software Development. I’m currently building projects that challenge my skills and help deepen my understanding through practical knowledge.
 
 ---
 
