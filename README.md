@@ -27,13 +27,14 @@ I'm a curious learner passionate about Artificial Intelligence, Cybersecurity, a
 </p>
 
 ---
-
+<!-- This is a hidden comment in your README.md 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shineeeeeeeeeeee&layout=compact&theme=tokyonight" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shineeeeeeeeeeee&show_icons=true&theme=tokyonight" />
 </p>
+-->
 
 ---
 
