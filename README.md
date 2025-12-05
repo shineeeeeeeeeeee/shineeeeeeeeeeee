@@ -26,8 +26,9 @@ I'm a curious learner passionate about Artificial Intelligence, Cybersecurity, a
   <img src="https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
----
 <!-- This is a hidden comment in your README.md 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
