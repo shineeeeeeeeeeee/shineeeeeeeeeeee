@@ -29,7 +29,7 @@ I'm a curious learner passionate about Artificial Intelligence, Cybersecurity, a
 <!-- This is a hidden comment in your README.md 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shineeeeeeeeeeee&layout=compact&theme=tokyonight" />
@@ -39,5 +39,5 @@ I'm a curious learner passionate about Artificial Intelligence, Cybersecurity, a
 
 ---
 
-> 🔎 "Learning one bug at a time."
+> "Learning one bug at a time."
 
