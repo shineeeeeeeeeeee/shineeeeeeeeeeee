@@ -12,7 +12,7 @@ I'm a curious learner passionate about Artificial Intelligence, Cybersecurity, a
 
 ---
 
-## 🧰 Languages and Tools I Use
+## Languages and Tools I Use
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
